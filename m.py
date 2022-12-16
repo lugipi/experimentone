@@ -14,7 +14,7 @@ from cryptography.fernet import Fernet
 import math as mp
 import numpy as np
 
-hfile = open(“?”, “r”)
+hfile = open(“?.html”, “r”)
 msg_k = ?
 
 f_m = "toy.var"
